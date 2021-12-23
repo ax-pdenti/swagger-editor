@@ -1,4 +1,4 @@
-FROM nginx:1.21.4-alpine
+FROM arm64v8/nginx:1.20-alpine
 
 LABEL maintainer="fehguy"
 
